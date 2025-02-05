@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = breugemjp@gmail.com
+	email = @users.noreply.github.com
 	name = JP Breugem
